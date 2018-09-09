@@ -4,5 +4,5 @@ Regex based email id and phone number extractor from web pages coded in python. 
 
 For execuating the program, run
 ```
-python spamlord.py <webpage directory>
+python SpamLord.py <webpage directory>
 ```
